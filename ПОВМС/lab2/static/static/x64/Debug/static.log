@@ -1,0 +1,7 @@
+﻿  static.cpp
+E:\4 курс\ПОВМС\lab2\static\static.cpp(20,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\4 курс\ПОВМС\lab2\static\static.cpp(24,23): warning C4018: <: несоответствие типов со знаком и без знака
+E:\4 курс\ПОВМС\lab2\static\static.cpp(28,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+E:\4 курс\ПОВМС\lab2\static\static.cpp(29,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  static.vcxproj -> E:\4 курс\ПОВМС\lab2\static\x64\Debug\static.exe
+  Скопировано файлов: 0.

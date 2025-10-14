@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+  rms_library.cpp
+E:\4 курс\ПОВМС\lab2\rms_library\rms_library.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+  (компиляция исходного файла "/rms_library.cpp")
+  
+  Создание кода...
+  rms_library.vcxproj -> E:\4 курс\ПОВМС\lab2\rms_library\x64\Debug\rms_library.dll
